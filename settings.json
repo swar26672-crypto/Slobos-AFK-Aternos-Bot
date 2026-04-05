@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": HeavenlyDemise.aternos.me
+    "ip": "HeavenlyDemise.aternos.me",
     "port": 33280
     "version": "",
     "try-creative": false
